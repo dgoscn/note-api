@@ -1,24 +1,26 @@
-# README
+# Note API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Note or not to be is just a simple api in Ruby on Rails
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+```bash
+not now, sorry
+```
 
-* Database creation
+## Usage
 
-* Database initialization
 
-* How to run the test suite
+```bash
+not now, sorry
+```
+## Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+```bash
+not now, sorry
+```
 
-* Deployment instructions
-
-* ...
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
